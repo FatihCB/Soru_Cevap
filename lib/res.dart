@@ -2,6 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 /// jsonEncode
 /// jsonDecode
+/// Soru Cevap Projesinin Soruları
+String a = "";
 
 List sorular = [
   {
